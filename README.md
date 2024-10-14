@@ -1,3 +1,1 @@
-#My Git Basic Exercises
-
-This is my README file for practicing Git commands.
+-More information added in the second edit.
